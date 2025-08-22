@@ -4,7 +4,7 @@ function Home (){
     return(
         <>
         <div>
-            <h1>Painel Principal</h1>
+            <h1>Help Desk</h1>
             <Sidebar/>
         </div>
         </>

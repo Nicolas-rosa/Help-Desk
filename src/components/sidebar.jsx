@@ -3,7 +3,7 @@ import React, { useState } from "react";
 const Sidebar = () => {
   const [isOpen, setIsOpen] = useState(true);
 
-  const items = ["Início", "Relatórios", "Usuários", "Configurações"];
+  const items = ["Historico", "Chamados", "Usuários", "Configuração"];
 
   return (
     <div style={{ display: "flex" }}>
@@ -55,7 +55,7 @@ const Sidebar = () => {
 
       {/* Conteúdo principal */}
       <div style={{ flex: 1, padding: "20px" }}>
-        <h1>Painel Principal</h1>
+        <h1>Help Desk</h1>
         <p>Aqui vai o conteúdo da página.</p>
       </div>
     </div>
