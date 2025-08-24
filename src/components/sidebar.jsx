@@ -41,7 +41,7 @@ const Sidebar = () => {
               style={{
                 padding: "10px",
                 cursor: "pointer",
-                borderRadius: "5px",
+                borderRadius: "12px",
                 transition: "background 0.2s",
               }}
               onMouseEnter={(e) => (e.target.style.background = "#f0f0f0")}
