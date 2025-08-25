@@ -1,13 +1,12 @@
 import  Sidebar  from "../components/sidebar";
 
-function Home (){
+function User (){
     return(
         <>
         <div>
-            <h1>Castro Help Desk</h1>
-            
+            <h1>User</h1>
         </div>
         </>
     )
 }
-export default Home;
+export default User;
