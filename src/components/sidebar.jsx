@@ -7,7 +7,7 @@ import { FiClock, FiFilePlus, FiCheckSquare, FiUsers, FiMenu } from 'react-icons
 const Sidebar = () => {
   const [isOpen, setIsOpen] = useState(true);
 
-  // Array de objetos para os itens do menu, agora com ícones
+  // Array das pages para o menu
   const menuItems = [
     { name: "Histórico", path: "/historico", icon: <FiClock /> },
     { name: "Abrir Chamado", path: "/abrir-chamado", icon: <FiFilePlus /> },
