@@ -119,7 +119,7 @@ const styles = {
     backgroundColor: "#FFFFFF",
     color: "#495057",
     border: '1px solid #DEE2E6',
-    borderRadius: "50%",
+    borderRadius: "55%",
     width: "48px",
     height: "48px",
     fontSize: "28px",
