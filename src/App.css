@@ -1,11 +1,1 @@
-/* Em App.css ou index.css */
-body {
-  background-color: #f0f2f5; /* Um cinza claro para o fundo */
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Uma fonte mais moderna */
-  margin: 0;
-}
-
-/* Garante que o layout principal ocupe toda a altura */
-#root, .App {
-  min-height: 100vh;
-}
+@import "tailwindcss";
