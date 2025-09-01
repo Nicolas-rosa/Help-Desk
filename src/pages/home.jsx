@@ -4,7 +4,7 @@ function Home (){
     return(
         <>
         <div>
-            <h1>Castro Help Desk</h1>
+            <h1 className="text-blue-800">Castro Help Desk</h1>
             
         </div>
         </>
